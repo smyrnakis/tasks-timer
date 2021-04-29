@@ -1,0 +1,56 @@
+<BOOKMARKS>
+  <BM>
+    <ID>1</ID>
+    <Line>349</Line>
+    <File>C:\Users\Tolis\Dropbox\mikroC\tasks_timer\v11_2\tasks_timer.c</File>
+    <Comment>              } else if(i == 2){     //!!!!! Feature: update time while in here</Comment>
+  </BM>
+  <BM>
+    <ID>1</ID>
+    <Line>349</Line>
+    <File>C:\Users\Tolis\Dropbox\mikroC\tasks_timer\v13\tasks_timer.c</File>
+    <Comment>unsigned short set_menu(){ // -------------- Time/Date set menu --------------</Comment>
+  </BM>
+  <BM>
+    <ID>1</ID>
+    <Line>349</Line>
+    <File>U:\Dropbox\mikroC\tasks_timer\v13\tasks_timer.c</File>
+    <Comment>                        genFlag.f4 = 0;                          // alarm</Comment>
+  </BM>
+  <BM>
+    <ID>1</ID>
+    <Line>349</Line>
+    <File>C:\Users\Tolis\Dropbox\mikroC\tasks_timer\v14\tasks_timer.c</File>
+    <Comment>                       asm sleep;</Comment>
+  </BM>
+  <BM>
+    <ID>1</ID>
+    <Line>349</Line>
+    <File>C:\Users\Tolis\Dropbox\mikroC\tasks_timer\v15\tasks_timer.c</File>
+    <Comment>}</Comment>
+  </BM>
+  <BM>
+    <ID>1</ID>
+    <Line>349</Line>
+    <File>U:\Dropbox\mikroC\tasks_timer\v16\tasks_timer.c</File>
+    <Comment>     asm NOP</Comment>
+  </BM>
+  <BM>
+    <ID>1</ID>
+    <Line>349</Line>
+    <File>C:\Users\Tolis\Dropbox\mikroC\tasks_timer\v16\tasks_timer.c</File>
+    <Comment>                        if (PORTA.f1||PORTA.f2){</Comment>
+  </BM>
+  <BM>
+    <ID>1</ID>
+    <Line>349</Line>
+    <File>C:\Users\Tolis\Dropbox\mikroC\tasks_timer\v17\tasks_timer.c</File>
+    <Comment>                          genFlag.f4 = 1;</Comment>
+  </BM>
+  <BM>
+    <ID>1</ID>
+    <Line>349</Line>
+    <File>U:\Dropbox\mikroC\tasks_timer\v17\tasks_timer.c</File>
+    <Comment>unsigned int secCount[10];                        // Running seconds count</Comment>
+  </BM>
+</BOOKMARKS>
