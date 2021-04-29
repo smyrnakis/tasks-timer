@@ -7,8 +7,8 @@ It features alarm, chimes, and a countdown timer. Brown-out & black-out detectio
 <br>
 
 <p float="left">
-  <img src="/img/pic1.jpeg" />
-  <img src="/img/pic2.jpg" />
+  <img src="/img/pic1.jpeg" width="450" />
+  <img src="/img/pic2.jpg" width="450" />
 </p>
 
 <br>
